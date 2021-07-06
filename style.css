@@ -13,6 +13,7 @@ h6{font-size: 15px;}
     border-radius: 5px;}
 .flexible-continer{
     display: flex;
+    margin-bottom: 80px;
 }
 .half-width{
     width: 100%;
@@ -27,4 +28,9 @@ h6{font-size: 15px;}
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
-    font-weight: 700;
+    font-weight: 700;}
+
+.Middle-section{
+    background-image:url("images/shapes/Frame 58.jpg")
+}  
+asche vai ? ha or na likhen ha bujte parche kothai somossa chilo ? apni likhen
