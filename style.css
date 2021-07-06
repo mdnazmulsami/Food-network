@@ -31,6 +31,31 @@ h6{font-size: 15px;}
     font-weight: 700;}
 
 .Middle-section{
-    background-image:url("images/shapes/Frame 58.jpg")
-}  
-asche vai ? ha or na likhen ha bujte parche kothai somossa chilo ? apni likhen
+    background-image:url("images/shapes/Frame 58.jpg");
+    background-repeat: no-repeat;
+}
+.bottom-section p{ text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.vitamin-elements{
+    width: 40%;
+    margin: 5%;
+    box-shadow: 3px 4px 10px 0px gray;
+    text-align: justify;
+    border-radius: 5px;
+    height: 100%;
+}
+.vitamin-elements h4{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color:black;
+    color: white;
+}
